@@ -1,0 +1,5 @@
+"""Paths relative to the package working directory."""
+data_path = "./data/"
+output_path = "./results/"
+input_file = "smile_period_means.npz"
+observation_file = "observed_rx1day_climatology.npz"
